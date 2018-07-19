@@ -1,3 +1,43 @@
 baseURL = "https://www.bantelstiftung.de/"
 languageCode = "de-DE"
 title = "Dr.-Egon-Bantel-Stiftung"
+theme = "dimension"
+defaultContentLanguage = "de"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Treuhandstiftung des GGAP e.V.<!--]--><br />
+                 <!--[-->Bildung, Nachhaltigkeit, Gerechtigkeit für die Armen dieser Welt.<!--]-->'
+  logo = "fa-handshake-o"
+  copyright = "2018 GGAP e.V."
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.de]
+languageName = "Deutsch"
+weight = 1
+
+[languages.en]
+languageName = "English"
+weight = 2
+
