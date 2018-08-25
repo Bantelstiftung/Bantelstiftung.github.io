@@ -5,7 +5,7 @@ weight: 3
 date: 2018-07-18T18:32:41+02:00
 draft: false
 ---
-![Logo des Vereins GGAP e.V.](images/ggap-logo.png "Logo des GGAP e.V.")
+<img src="/logo-9d9d9d.svg" class="float-right quarter">
 
 Der Verein "Gemeinsam gegen Armut auf den Philippinen (GGAP) e.V." fördert die 
 Berufsausbildung von jungen Menschen auf den Philippinen, um ihnen eine 

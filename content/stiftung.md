@@ -5,23 +5,23 @@ date: 2018-07-18T18:30:45+02:00
 weight: 2
 draft: false
 ---
-Die Dr.-Egon-Bantel-Stiftung wurde 2017 von Dr. Ursula Bantel-Schaal ins Leben gerufen.
-Sie ist eine Treuhandstiftung des Vereins GGAP e.V.
+Die Dr.-Egon-Bantel-Stiftung wurde 2017 von Frau Dr. Ursula Bantel-Schaal ins
+Leben gerufen. Sie ist eine Treuhandstiftung des Vereins
+[Gemeinsam gegen Armut auf den Philippinen (GGAP) e.V.][1]
 
-Mit einer Zustiftung können Sie in Armut lebenden jungen Menschen auf dieser 
-Erde eine nachhaltige Perspektive für ein besseres Leben ermöglichen. Wenden Sie sich dazu bitte an den Stiftungsrat:
+<img src="bantel1.jpg" class="img-fluid">
 
-[stiftungsrat@gemeinsam-gegen-armut.org](mailto:stiftungsrat@gemeinsam-gegen-armut.org)
+Das Ziel der Stiftung ist es, den Verein GGAP e.V. in seiner Arbeit langfristig
+zu unterstützen und damit benachteiligte Jugendliche auf den Philippinen zu
+fördern und ihnen nachhaltig eine Perspektive für ein besseres Leben zu
+ermöglichen. Sämtliche Erlöse der Stiftung fließen ohne Abzüge für Verwaltung
+o.ä. dem Verein zu, welcher die Mittel wiederum quasi zu 100 % vor Ort einsetzt. 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At 
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd 
-gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum 
-dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero 
-eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no 
-sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit 
-amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
-labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam 
-et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata 
-sanctus est Lorem ipsum dolor sit amet. 
+**Mit einer Zustiftung können Sie diese Arbeit nachhaltig sichern,** Ihr Geld für
+lange Zeit für etwas mehr Chancengerechtigkeit in unserer Welt arbeiten lassen. 
+
+Bei Interesse, Neugier und Fragen wenden Sie sich bitte an den Stiftungsrat:
+[stiftungsrat@gemeinsam-gegen-armut.org][2].
+
+[1]: https://www.gemeinsam-gegen-armut.org
+[2]: mailto:stiftungsrat@gemeinsam-gegen-armut.org

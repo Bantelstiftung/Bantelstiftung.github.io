@@ -6,6 +6,9 @@ defaultContentLanguage = "de"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
+RelativeURLs=true
+CanonifyURLs=true
+
 [params]
   description = '<!--[-->Treuhandstiftung des GGAP e.V.<!--]--><br />
                  <!--[-->Bildung, Nachhaltigkeit, Gerechtigkeit für die Armen dieser Welt.<!--]-->'
@@ -37,7 +40,6 @@ disableKinds=["RSS"]
 languageName = "Deutsch"
 weight = 1
 
-[languages.en]
-languageName = "English"
-weight = 2
-
+# [languages.en]
+# languageName = "English"
+# weight = 2
