@@ -6,26 +6,30 @@ draft: false
 # To ensure proper line breaks, make sure there are trailing spaces!
 ---
 Dr.-Egon-Bantel-Stiftung  
-Treuhandstiftung des Gemeinsam gegen Armut auf den Philippinen (GGAP) e.V.
+Treuhandstiftung des Gemeinsam gegen Armut auf den Philippinen (GGAP) e.V.  
+[stiftungsrat@bantel-stiftung.de][7]
 
+### Kontaktperson für diese Website
 Daniel Kraus  
-Beisitzer im Vorstand  
 c/o GGAP e.V.  
 Bitburger Str. 27  
 13051 Berlin  
 [d.kraus@ggap-ev.org][1]
 
 
-## Bildnachweis
+### Bildnachweis
 Fotos mit freundlicher Genehmigung von Dr. Ursula Bantel-Schaal.
-Hintergrundbild: [Chocolate Hills][2], Philippinen von [Jacky Lo][2], geladen
-von [Unsplash](https://unsplash.com).
-Diese Website verwendet das Design ["Dimension"][3] für [Hugo][4].
+Hintergrundbild: [Chocolate Hills][2], Philippinen von [Jacky Lo][5], geladen
+von [Unsplash][6].
+Diese Website verwendet das Design ["Dimension"][3] für [Hugo][4] {{< hugo-version >}}.
 
-## Datenschutzerklärung
+### Datenschutzerklärung
 Diese Website erhebt und verarbeitet keine personenbezogenen Daten.
 
 [1]: mailto:d.kraus@ggap-ev.org
 [2]: https://unsplash.com/photos/kCNf42AH5RM
 [3]: https://themes.gohugo.io/dimension
 [4]: https://gohugo.io
+[5]: https://unsplash.com/@hclojacky
+[6]: https://unsplash.com
+[7]: mailto:stiftungsrat@bantel-stiftung.de
