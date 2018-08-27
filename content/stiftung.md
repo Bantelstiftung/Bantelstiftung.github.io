@@ -9,8 +9,6 @@ Die Dr.-Egon-Bantel-Stiftung wurde 2017 von Frau Dr. Ursula Bantel-Schaal ins
 Leben gerufen. Sie ist eine Treuhandstiftung des Vereins
 [Gemeinsam gegen Armut auf den Philippinen (GGAP) e.V.][1]
 
-<img src="bantel1.jpg" class="img-fluid">
-
 Das Ziel der Stiftung ist es, den Verein GGAP e.V. in seiner Arbeit langfristig
 zu unterstützen und damit benachteiligte Jugendliche auf den Philippinen zu
 fördern und ihnen nachhaltig eine Perspektive für ein besseres Leben zu
@@ -21,7 +19,7 @@ o.ä. dem Verein zu, welcher die Mittel wiederum quasi zu 100 % vor Ort einsetzt
 lange Zeit für etwas mehr Chancengerechtigkeit in unserer Welt arbeiten lassen. 
 
 Bei Interesse, Neugier und Fragen wenden Sie sich bitte an den Stiftungsrat:
-[stiftungsrat@gemeinsam-gegen-armut.org][2].
+[stiftungsrat@bantel-stiftung.de][2].
 
 [1]: https://www.gemeinsam-gegen-armut.org
 [2]: mailto:stiftungsrat@gemeinsam-gegen-armut.org

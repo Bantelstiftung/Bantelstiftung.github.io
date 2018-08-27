@@ -13,11 +13,19 @@ Beisitzer im Vorstand
 c/o GGAP e.V.  
 Bitburger Str. 27  
 13051 Berlin  
-[d.kraus@ggap-ev.org](mailto:d.kraus@ggap-ev.org)
+[d.kraus@ggap-ev.org][1]
 
 
 ## Bildnachweis
-Hintergrundbild: Photo by [Jacky Lo](https://unsplash.com/photos/kCNf42AH5RM) on [Unsplash](https://unsplash.com).
+Fotos mit freundlicher Genehmigung von Dr. Ursula Bantel-Schaal.
+Hintergrundbild: [Chocolate Hills][2], Philippinen von [Jacky Lo][2], geladen
+von [Unsplash](https://unsplash.com).
+Diese Website verwendet das Design ["Dimension"][3] für [Hugo][4].
 
 ## Datenschutzerklärung
 Diese Website erhebt und verarbeitet keine personenbezogenen Daten.
+
+[1]: mailto:d.kraus@ggap-ev.org
+[2]: https://unsplash.com/photos/kCNf42AH5RM
+[3]: https://themes.gohugo.io/dimension
+[4]: https://gohugo.io

@@ -10,7 +10,7 @@ und in eigener Praxis tätig. Seine Haltung und sein Handeln waren geprägt von
 der Überzeugung, dass für den Menschen die inhärente Verpflichtung besteht, zu
 helfen und zu teilen.
 
-<img src="bantel2.jpg" class="img-fluid">
+<img src="bantel2.jpg" title="Dr. Egon Bantel 2008 in Nicaragua" class="img-fluid">
 
 Die in [Matth. 25, 31-46][1] dargelegten Grundgedanken, insbesondere die das
 unterlassende Nicht-Handeln betreffenden [Verse 42 und 43][2], haben ihn
@@ -20,6 +20,8 @@ machte, führten ihn in zunehmendem Maße zu der Einsicht, dass dauerhafte Hilfe
 nur durch das Ermöglichen von Selbsthilfe eine Chance haben kann. Wie umfassend
 der Zugang zu Bildung ein Leben positiv verändern kann, hat er an sich selbst
 erfahren.
+
+<img src="bantel1.jpg" title="Dr. Egon Bantel 2008 in Nicaragua" class="img-fluid">
 
 In dem Wunsch und der Hoffnung, etwas von ihm und seiner Haltung über seinen Tod
 hinaus wirken zu lassen, wurde 2017 die [Dr.-Egon-Bantel-Stiftung][3] gegründet. 
