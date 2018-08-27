@@ -1,0 +1,5 @@
+Header set Content-Security-Policy "
+    default-src 'self';
+    img-src 'self' data:;
+    script-src 'self' 'unsafe-inline';
+"
