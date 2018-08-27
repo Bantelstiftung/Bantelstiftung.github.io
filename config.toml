@@ -13,4 +13,4 @@ CanonifyURLs=true
   description = '<!--[-->Treuhandstiftung des GGAP e.V.<!--]--><br />
                  <!--[-->Bildung, Nachhaltigkeit, Gerechtigkeit für die Armen dieser Welt.<!--]-->'
   logo = "fa-handshake-o"
-  copyright = "2018 GGAP e.V."
+  copyright = "{{ now.Format 2018 }} GGAP e.V."

@@ -17,11 +17,13 @@ Bitburger Str. 27
 [d.kraus@ggap-ev.org][1]
 
 
-### Bildnachweis
+### Quellennachweis
 Fotos mit freundlicher Genehmigung von Dr. Ursula Bantel-Schaal.
 Hintergrundbild: [Chocolate Hills][2], Philippinen von [Jacky Lo][5], geladen
 von [Unsplash][6].
-Diese Website verwendet das Design ["Dimension"][3] für [Hugo][4] {{< hugo-version >}}.
+Diese Website verwendet das von [Seth McLeod][10] für [Hugo][4] angepasste
+Design ["Dimension"][3] von [HTML5 UP][8] unter den Bedingungen der
+[Creative-Commons-Lizenz][9].
 
 ### Datenschutzerklärung
 Diese Website erhebt und verarbeitet keine personenbezogenen Daten.
@@ -33,3 +35,6 @@ Diese Website erhebt und verarbeitet keine personenbezogenen Daten.
 [5]: https://unsplash.com/@hclojacky
 [6]: https://unsplash.com
 [7]: mailto:stiftungsrat@bantel-stiftung.de
+[8]: https://html5up.net
+[9]: https://html5up.net/license
+[10]: https://www.sethmacleod.com
