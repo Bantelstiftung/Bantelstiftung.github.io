@@ -10,7 +10,6 @@ RelativeURLs=true
 CanonifyURLs=true
 
 [params]
-  description = '<!--[-->Treuhandstiftung des GGAP e.V.<!--]--><br />
-                 <!--[-->Bildung, Nachhaltigkeit, Gerechtigkeit für die Armen dieser Welt.<!--]-->'
-  logo = ""
-  copyright = "{{ now.Format 2018 }} GGAP e.V."
+description = '<!--[-->Treuhandstiftung des GGAP e.V.<!--]--><br /><!--[-->Bildung, Nachhaltigkeit, Gerechtigkeit für die Armen dieser Welt.<!--]-->'
+logo = ""
+copyright = "2018 GGAP e.V"
