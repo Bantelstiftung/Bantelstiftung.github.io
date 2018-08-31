@@ -1,4 +1,4 @@
-baseURL = "https://www.bantel-stiftung.de/"
+baseURL = "https://www.bantelstiftung.de/"
 languageCode = "de-DE"
 title = "Dr.-Egon-Bantel-Stiftung"
 theme = "dimension"

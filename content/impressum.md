@@ -7,7 +7,7 @@ draft: false
 ---
 Dr.-Egon-Bantel-Stiftung  
 Treuhandstiftung des Gemeinsam gegen Armut auf den Philippinen (GGAP) e.V.  
-[stiftungsrat@bantel-stiftung.de][7]
+[stiftungsrat@bantelstiftung.de][7]
 
 ### Kontaktperson für diese Website
 Daniel Kraus  
