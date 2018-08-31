@@ -19,7 +19,7 @@ o.ä. dem Verein zu, welcher die Mittel wiederum quasi zu 100 % vor Ort einsetzt
 lange Zeit für etwas mehr Chancengerechtigkeit in unserer Welt arbeiten lassen. 
 
 Bei Interesse, Neugier und Fragen wenden Sie sich bitte an den Stiftungsrat:
-[stiftungsrat@bantel-stiftung.de][2].
+[stiftungsrat@bantelstiftung.de][2].
 
 [1]: #verein
 [2]: mailto:stiftungsrat@gemeinsam-gegen-armut.org
