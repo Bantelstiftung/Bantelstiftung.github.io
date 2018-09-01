@@ -7,7 +7,7 @@ draft: false
 ---
 Dr. Egon Bantel (1947-2010) war als deutscher Hautarzt in verschiedenen Kliniken
 und in eigener Praxis tätig. Seine Haltung und sein Handeln waren geprägt von
-der Überzeugung, dass für den jeden Menschen die Verpflichtung besteht, zu
+der Überzeugung, dass für jeden Menschen die Verpflichtung besteht, zu
 helfen und zu teilen.
 
 <img src="bantel2.jpg" title="Dr. Egon Bantel 2008 in Nicaragua" class="img-fluid">
