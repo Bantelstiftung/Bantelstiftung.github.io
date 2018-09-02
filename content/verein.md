@@ -16,6 +16,6 @@ Der GGAP e.V. ging hervor aus einer privaten Initiative des Medizinstudenten und
 heutigen Arztes Sebastian Spinner, der seit 2001 den Ärmsten der Welt mit
 Spendengeldern Schul- und Berufsausbildungen ermöglichte.
 
-[www.gemeinsam-gegen-armut.org][1]
+<a href="https://www.gemeinsam-gegen-armut.org" target="_blank">www.gemeinsam-gegen-armut.org</a>
 
 [1]: https://www.gemeinsam-gegen-armut.org
