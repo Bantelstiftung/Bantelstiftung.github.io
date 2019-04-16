@@ -11,3 +11,6 @@
   width: 25%;
   height: auto;
 }
+br {
+  display: unset !important;
+}
