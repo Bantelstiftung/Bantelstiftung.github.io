@@ -1,7 +1,7 @@
 ---
 title: "Der Verein"
 menuname: "Verein"
-weight: 3
+weight: 4
 date: 2018-07-18T18:32:41+02:00
 draft: false
 ---
