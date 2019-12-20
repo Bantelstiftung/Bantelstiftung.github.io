@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-weight: 4
+weight: 5
 date: 2018-07-18T18:44:24+02:00
 draft: false
 # To ensure proper line breaks, make sure there are trailing spaces!
@@ -14,7 +14,7 @@ Daniel Kraus
 c/o GGAP e.V.  
 Bitburger Str. 27  
 13051 Berlin  
-(09 31) 29 98 73 46  
+(0 61 07) 7 56 88 40
 [d.kraus@ggap-ev.org][1]
 
 
