@@ -43,8 +43,8 @@ Fachkraft für Arbeitssicherheit, Dipl. Ing. (FH) i. R., Remstal
 <img src="Klapper.jpg" alt="Angelika Klapper" title="Angelika Klapper" class="img-fluid">
 
 ### Angelika Klapper
-geb. 1951  
-Lehrerin, Berlin
+geb. 1951 in Erfurt  
+Lehrerin i.R., Berlin
 
 
 
@@ -54,4 +54,3 @@ Lehrerin, Berlin
 ### Angelika Piniek
 geb. 1952 in Berlin (Ost)  
 Gemeindereferentin i.R., Berlin
-
