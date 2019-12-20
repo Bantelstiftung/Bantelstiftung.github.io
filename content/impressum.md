@@ -10,15 +10,16 @@ Treuhandstiftung des Gemeinsam gegen Armut auf den Philippinen (GGAP) e.V.
 [stiftungsrat@bantelstiftung.de][7]
 
 ### Kontaktperson für diese Website
-Daniel Kraus  
+
+Dr. Daniel Kraus  
 c/o GGAP e.V.  
 Bitburger Str. 27  
 13051 Berlin  
-(0 61 07) 7 56 88 40
+(0 61 07) 7 56 88 40  
 [d.kraus@ggap-ev.org][1]
 
-
 ### Quellennachweis
+
 Fotos mit freundlicher Genehmigung von Dr. Ursula Bantel-Schaal.
 Hintergrundbild: [Chocolate Hills][2], Philippinen von [Jacky Lo][5], geladen
 von [Unsplash][6].
@@ -27,6 +28,7 @@ Design ["Dimension"][3] von [HTML5 UP][8] unter den Bedingungen der
 [Creative-Commons-Lizenz][9].
 
 ### Datenschutzerklärung
+
 Diese Website erhebt und verarbeitet keine personenbezogenen Daten.
 
 [1]: mailto:d.kraus@ggap-ev.org
