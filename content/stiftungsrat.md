@@ -15,7 +15,7 @@ Der Vorstand der Dr.-Egon-Bantel-Stiftung:
 
 ### Dr. Ursula Bantel-Schaal
 geb. 1943 in Haubersbronn (Baden-Württemberg)  
-Biochemikerin, Dozentin i. R., Tutschfelden  
+Biochemikerin, Dozentin i. R.
 Stiftungsgründerin
 
 
