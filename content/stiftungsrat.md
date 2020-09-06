@@ -1,7 +1,7 @@
 ---
 title: "Der Stiftungsrat"
 menuname: "Stiftungsrat"
-date: 2019-12-17T18:30:45+02:00
+date: 2020-09-06T20:30:45+02:00
 weight: 3
 draft: false
 ---
@@ -11,7 +11,7 @@ Der Vorstand der Dr.-Egon-Bantel-Stiftung:
 
 
 
-<img src="Bantel-Schaal.jpg" alt="Dr. Ursula Bantel-Schaal" title="Dr. Ursula Bantel-Schaal" class="img-fluid">
+<img src="Bantel-Schaal_6ca1309.jpg" alt="Dr. Ursula Bantel-Schaal" title="Dr. Ursula Bantel-Schaal" class="img-fluid">
 
 ### Dr. Ursula Bantel-Schaal
 geb. 1943 in Haubersbronn (Baden-Württemberg)  
@@ -31,7 +31,7 @@ Vorsitzender des Stiftungsrates
 
 
 
-<img src="Bantel.jpg" alt="Wolfgang Bantel" title="Wolfgang Bantel" class="img-fluid">
+<img src="Bantel_9b622b2.jpg" alt="Wolfgang Bantel" title="Wolfgang Bantel" class="img-fluid">
 
 ### Wolfgang Bantel
 geb. 1952 in Oberurbach (Baden Württemberg)  
