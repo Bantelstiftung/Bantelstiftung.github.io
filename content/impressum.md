@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 weight: 5
-date: 2018-07-18T18:44:24+02:00
+date: 2020-09-09T17:39:22+02:00
 draft: false
 # To ensure proper line breaks, make sure there are trailing spaces!
 ---
@@ -11,7 +11,7 @@ Treuhandstiftung des Gemeinsam gegen Armut auf den Philippinen (GGAP) e.V.
 
 ### Kontaktperson für diese Website
 
-Dr. Daniel Kraus  
+Priv.-Doz. Dr. Daniel Kraus  
 c/o GGAP e.V.  
 Bitburger Str. 27  
 13051 Berlin  
