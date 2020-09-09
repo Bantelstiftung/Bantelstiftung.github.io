@@ -5,6 +5,7 @@ theme = "dimension"
 defaultContentLanguage = "de"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+publishDir = "docs"
 
 RelativeURLs=true
 CanonifyURLs=true
