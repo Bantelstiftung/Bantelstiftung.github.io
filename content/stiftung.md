@@ -18,6 +18,15 @@ o.ä. dem Verein zu, welcher die Mittel wiederum quasi zu 100 % vor Ort einsetzt
 **Mit einer Zustiftung können Sie diese Arbeit nachhaltig sichern,** Ihr Geld für
 lange Zeit für etwas mehr Chancengerechtigkeit in unserer Welt arbeiten lassen. 
 
+Stiftungskonto:
+Kontoinhaber: Dr.-Egon-Bantel-Stiftung  
+IBAN:  DE60 3706 0193 6006 4210 14  
+BIC: GENODED1PAX  
+Pax-Bank, Köln
+
+Wenn Sie eine Spendenbescheinigung wünschen, geben Sie bitte als Verwendungszweck Ihre
+Adresse an.
+
 Bei Interesse, Neugier und Fragen wenden Sie sich bitte an den Stiftungsrat:
 [stiftungsrat@bantelstiftung.de][2].
 
