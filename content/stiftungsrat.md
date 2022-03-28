@@ -40,17 +40,13 @@ Fachkraft für Arbeitssicherheit, Dipl. Ing. (FH) i. R., Remstal
 
 
 
-<img src="Klapper.jpg" alt="Angelika Klapper" title="Angelika Klapper" class="img-fluid">
+<!-- <img src="Klapper.jpg" alt="Angelika Klapper" title="Angelika Klapper" class="img-fluid"> -->
 
-### Angelika Klapper
-geb. 1951 in Erfurt  
-Lehrerin i.R., Berlin
+### Feb Spinner
 
 
 
 
-<img src="Piniek_A.jpg" alt="Angelika Piniek" title="Angelika Piniek" class="img-fluid">
+<!-- <img src="Piniek_A.jpg" alt="Angelika Piniek" title="Angelika Piniek" class="img-fluid"> -->
 
-### Angelika Piniek
-geb. 1952 in Berlin (Ost)  
-Gemeindereferentin i.R., Berlin
+### Ralf Kientopp
